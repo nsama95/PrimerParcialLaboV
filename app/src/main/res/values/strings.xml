@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PrimerParcialLaboV</string>
+    <string name="title_edit">Editar usuario</string>
+    <string name="user">Usuario</string>
+    <string name="passRep">Repita la contraseña</string>
+    <string name="pass">Contraseña</string>
+    <string name="type">Tipo</string>
+    <string name="btnsave">Guardar</string>
+</resources>
